@@ -1,0 +1,57 @@
+header h1{
+    text-align:center;
+    color: yellow;
+}
+header img{
+    width: 220px;
+}
+
+
+header{
+    background-color: black;
+color:yellow ;
+}
+p {
+ 
+   color: rgb(0, 0, 0);
+}
+
+body{
+    background-color: yellow;
+}
+
+main{
+    text-align: center;
+}
+
+main img{
+    width:250px;
+}
+
+header a {
+    text-align:center;
+    background-color: rgb(255, 238, 0);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 16px;
+    padding:10px;
+    border-radius: 10px;
+    margin:82.2px;
+}
+
+.bl{
+    color:black;
+}
+
+.imaag{
+    width:500px;
+}
+
+footer p{
+    text-align: center;
+    background-color: black;
+}
+
+p{
+    font-size: large;
+}
